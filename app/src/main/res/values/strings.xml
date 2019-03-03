@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Ruang Guru</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_having_account">Already Having an Account?</string>
+    <string name="log_in">Login</string>
+    <string name="not_having_account">Not Having an Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="logo_ruang_guru">LOGO Ruang Guru</string>
+    <string name="title_home">Home</string>
+    <string name="title_purchase">Purchase</string>
+    <string name="title_other">Other</string>
+    <string name="title_account">Account</string>
+
+    <string name="welcome_text">Welcome Text</string>
+    <string name="ruang_belajar">Ruang Belajar</string>
+    <string name="raport">Raport</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="english">English</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="biology">Biology</string>
+    <string name="history">History</string>
+    <string name="other">Other</string>
+    <string name="daily_challenge">Daily Challenge</string>
+    <string name="roboguru">Roboguru</string>
+    <string name="layanan_favorit">Favorite Services</string>
+    <string name="ruang_les_online">Ruang Les</string>
+    <string name="ruang_uji">Ruang Uji</string>
+    <string name="ruang_baca">Ruang Baca</string>
+    <string name="digital_bootcamp">Digital Bootcamp</string>
+    <string name="ruang_les">Ruang Les Online</string>
+    <string name="spesial_for">Special for You</string>
+    <string name="special">SPECIAL</string>
+    <string name="foto_soal">Foto Soal</string>
+    <string name="mulai">Start</string>
+</resources>
